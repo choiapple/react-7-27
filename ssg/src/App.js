@@ -5,8 +5,6 @@ import Sister from './Sister';
 
 function App() {
 
-
-  
   const [card, setCard] = useState(3000000000);
   const [person, setPerson] = useState();
   const [명세, 명세추가] = useState(
