@@ -1,0 +1,15 @@
+p {
+    font-size: 20pt;
+}
+
+.viewModal{
+    display: block;
+}
+
+.hideModal{
+    display: none;
+}
+
+.haha{
+    display:flex;
+}
